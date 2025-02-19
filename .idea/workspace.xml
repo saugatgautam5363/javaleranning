@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b34310b-1dda-40bd-b3eb-7d524dfcb6a4" name="Changes" comment="" />
+    <list default="true" id="0b34310b-1dda-40bd-b3eb-7d524dfcb6a4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/random.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/random2Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java thirdSEm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice java/CheckNumberPositiveNegative.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice java/CheckNumberPositiveNegative.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice java/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice java/oddeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice java/oddeven.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +19,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2sSwvg4KbKhnHo5FdO4Y7Oxjft6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,6 +34,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -43,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738462521143</updated>
       <workItem from="1738462529348" duration="218000" />
+      <workItem from="1739674309358" duration="87000" />
     </task>
     <servers />
   </component>
