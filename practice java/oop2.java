@@ -14,6 +14,6 @@ class BankAccount {
 public class oop2 {
     public static void main(String[] args) {
         BankAccount account = new BankAccount();
-        
+        account.setBlance(123444444);
     }
 }
