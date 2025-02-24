@@ -18,7 +18,6 @@ public class MainClass {
         System.out.println(buddy.getDetails());
     }
 }
-
 // Abstract class representing any living being
 public abstract class LivingBeing {
     public String name;
