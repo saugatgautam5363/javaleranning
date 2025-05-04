@@ -1,5 +1,5 @@
 abstract class Animal{
-    abstract void walk();
+    abstract void walk();    
 }
 
 class Horse extends Animal{
