@@ -16,7 +16,7 @@ public class DataBaseConnection {
             Connection connection = DriverManager.getConnection(url,userName,password);
             Statement statement = connection.createStatement();
 //            String query = String.format("UPDATE students SET marks = %f WHERE id = %d",90.34,4);
-            String query = ("DELETE FROM students WHERE id = 3");
+            String query = ("DELETE FROM students WHERE id = 4");
             int rowAffected = statement.executeUpdate(query);
 //            if(rowAffected>0){
 //                System.out.println("Data Update successfully!");
