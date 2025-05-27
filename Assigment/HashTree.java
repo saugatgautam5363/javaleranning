@@ -8,6 +8,14 @@ public class HashTree {
         Map<String,Integer> treemap = new TreeMap<>();
         treemap.put("R",4);
 
+
+
+
+
+
+
+
+
         treemap.put("V",5);
     }
 }

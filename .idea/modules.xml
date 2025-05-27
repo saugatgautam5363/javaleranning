@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java thirdSEm.iml" filepath="$PROJECT_DIR$/Java thirdSEm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GLU/GLU.iml" filepath="$PROJECT_DIR$/GLU/GLU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_thirdSEm.iml" filepath="$PROJECT_DIR$/Java_thirdSEm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
     </modules>
   </component>
 </project>

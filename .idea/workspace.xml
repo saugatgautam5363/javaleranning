@@ -1,15 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b34310b-1dda-40bd-b3eb-7d524dfcb6a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java/hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/random.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/random2Class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java thirdSEm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice java/CheckNumberPositiveNegative.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice java/CheckNumberPositiveNegative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice java/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice java/oddeven.class" beforeDir="false" afterPath="$PROJECT_DIR$/practice java/oddeven.class" afterDir="false" />
+    <list default="true" id="0b34310b-1dda-40bd-b3eb-7d524dfcb6a4" name="Changes" comment="hash map">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assigment/homework1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/FileHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLU/GLU.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLU/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GLU/src/SwingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/PStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPJAVA/oop/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPJAVA/oop/ClassObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPJAVA/oop/ClassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPJAVA/oop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPJAVA/oop/defaultConstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/CreateFileExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileCreate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileWrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/FileWriters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/Files.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/NewFilewriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/OtherFileWrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FileHandling/ReadFromFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GLU/BorderLayout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GLU/First.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GLU/JTableExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GLU/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GLU/ManagementSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GLU/SystemFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GLU/SystemMenuBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/DataBaseConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/NewJavaClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/Otherfile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/PStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JDBC/Update.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java thirdSEm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java thirdSEm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java thirdSEm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java thirdSEm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java thirdSEm/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java thirdSEm/Java thirdSEm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment/HashTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assigment/HashTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigment/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java thirdSEm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_thirdSEm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/college/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/college/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/college/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/college/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/college/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice java/encapsulation.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,35 +80,140 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;saugatgautam5363&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/saugatgautam5363/javaleranning.git&quot;,
+    &quot;accountId&quot;: &quot;7e953e48-0552-413c-bd01-cdcaaf3c9258&quot;
+  }
+}</component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2sSwvg4KbKhnHo5FdO4Y7Oxjft6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CreateFileExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataBaseConnection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileCreate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileDelete.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileWriters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Files.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JTableExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewFilewriter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewJavaClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OtherFileWrite.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Otherfile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwingEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Update.executor&quot;: &quot;Run&quot;,
+    &quot;Application.encapsulation.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bed15.000/OneDrive/Desktop/DSAJAVA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
-      </set>
-    </attachedChunks>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JTableExamples">
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First" />
+      <module name="GLU" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JTableExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JTableExamples" />
+      <module name="GLU" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PStatement" />
+      <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaGUI.SwingEx" />
+      <module name="GLU" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Update" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Update" />
+      <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JTableExamples" />
+        <item itemvalue="Application.SwingEx" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.Update" />
+        <item itemvalue="Application.PStatement" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,10 +225,252 @@
       <updated>1738462521143</updated>
       <workItem from="1738462529348" duration="218000" />
       <workItem from="1739674309358" duration="87000" />
+      <workItem from="1740391005051" duration="319000" />
+      <workItem from="1741252210088" duration="155000" />
     </task>
+    <task id="LOCAL-00001" summary="dkjfkdsl">
+      <option name="closed" value="true" />
+      <created>1746175734368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746175734368</updated>
+    </task>
+    <task id="LOCAL-00002" summary="file create using file handling">
+      <option name="closed" value="true" />
+      <created>1746190395839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746190395839</updated>
+    </task>
+    <task id="LOCAL-00003" summary="file create using file handling">
+      <option name="closed" value="true" />
+      <created>1746190414896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746190414896</updated>
+    </task>
+    <task id="LOCAL-00004" summary="file write using file handling">
+      <option name="closed" value="true" />
+      <created>1746190443613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746190443614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="file write using file handling">
+      <option name="closed" value="true" />
+      <created>1746190456613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746190456613</updated>
+    </task>
+    <task id="LOCAL-00006" summary="file write using file handling">
+      <option name="closed" value="true" />
+      <created>1746190472648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746190472648</updated>
+    </task>
+    <task id="LOCAL-00007" summary="file read using file handling">
+      <option name="closed" value="true" />
+      <created>1746190489932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746190489932</updated>
+    </task>
+    <task id="LOCAL-00008" summary="file create">
+      <option name="closed" value="true" />
+      <created>1746349190855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349190855</updated>
+    </task>
+    <task id="LOCAL-00009" summary="file delete">
+      <option name="closed" value="true" />
+      <created>1746349261379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349261379</updated>
+    </task>
+    <task id="LOCAL-00010" summary="file read">
+      <option name="closed" value="true" />
+      <created>1746349280577</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349280577</updated>
+    </task>
+    <task id="LOCAL-00011" summary="file read">
+      <option name="closed" value="true" />
+      <created>1746349288847</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349288847</updated>
+    </task>
+    <task id="LOCAL-00012" summary="file read">
+      <option name="closed" value="true" />
+      <created>1746349333124</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349333124</updated>
+    </task>
+    <task id="LOCAL-00013" summary="file read">
+      <option name="closed" value="true" />
+      <created>1746349359014</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746349359014</updated>
+    </task>
+    <task id="LOCAL-00014" summary="file read">
+      <option name="closed" value="true" />
+      <created>1746980567888</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746980567888</updated>
+    </task>
+    <task id="LOCAL-00015" summary="database connection">
+      <option name="closed" value="true" />
+      <created>1746980587037</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746980587037</updated>
+    </task>
+    <task id="LOCAL-00016" summary="database connection">
+      <option name="closed" value="true" />
+      <created>1746980595738</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746980595738</updated>
+    </task>
+    <task id="LOCAL-00017" summary="database connection">
+      <option name="closed" value="true" />
+      <created>1747070826920</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1747070826920</updated>
+    </task>
+    <task id="LOCAL-00018" summary="database connection">
+      <option name="closed" value="true" />
+      <created>1747135919206</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747135919206</updated>
+    </task>
+    <task id="LOCAL-00019" summary="database update">
+      <option name="closed" value="true" />
+      <created>1747135940693</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747135940693</updated>
+    </task>
+    <task id="LOCAL-00020" summary="GUL">
+      <option name="closed" value="true" />
+      <created>1747538618286</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747538618287</updated>
+    </task>
+    <task id="LOCAL-00021" summary="GUL">
+      <option name="closed" value="true" />
+      <created>1747538630901</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747538630901</updated>
+    </task>
+    <task id="LOCAL-00022" summary="GUL">
+      <option name="closed" value="true" />
+      <created>1747538639474</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1747538639474</updated>
+    </task>
+    <task id="LOCAL-00023" summary="GUL">
+      <option name="closed" value="true" />
+      <created>1747538655133</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1747538655133</updated>
+    </task>
+    <task id="LOCAL-00024" summary="GUI">
+      <option name="closed" value="true" />
+      <created>1747972829062</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1747972829062</updated>
+    </task>
+    <task id="LOCAL-00025" summary="GUI">
+      <option name="closed" value="true" />
+      <created>1747972924394</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1747972924394</updated>
+    </task>
+    <task id="LOCAL-00026" summary="hash map">
+      <option name="closed" value="true" />
+      <created>1748094194582</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1748094194582</updated>
+    </task>
+    <task id="LOCAL-00027" summary="hash map">
+      <option name="closed" value="true" />
+      <created>1748094602140</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1748094602140</updated>
+    </task>
+    <task id="LOCAL-00028" summary="hash map">
+      <option name="closed" value="true" />
+      <created>1748353900485</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1748353900485</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dkjfkdsl" />
+    <MESSAGE value="file create using file handling" />
+    <MESSAGE value="file write using file handling" />
+    <MESSAGE value="file read using file handling" />
+    <MESSAGE value="file create" />
+    <MESSAGE value="file delete" />
+    <MESSAGE value="file read" />
+    <MESSAGE value="database connection" />
+    <MESSAGE value="database update" />
+    <MESSAGE value="GUL" />
+    <MESSAGE value="GUI" />
+    <MESSAGE value="hash map" />
+    <option name="LAST_COMMIT_MESSAGE" value="hash map" />
   </component>
 </project>
