@@ -3,6 +3,7 @@ import javax.swing.*;
 public class BorderLayout {
     JFrame frame;
 
+
     public static void main(String[] args) {
 
     }
