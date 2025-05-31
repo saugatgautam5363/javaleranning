@@ -7,6 +7,7 @@ public class Eagle extends LivingBeing {
     }
 
 
+
     @Override
     public void eat() {
         System.out.println(name + " is eating meat.");
