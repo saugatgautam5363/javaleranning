@@ -8,6 +8,7 @@ public class SystemFrame {
         frame.setSize(1000,4000);
 
 
+
         frame.setVisible(true);
     }
 }
