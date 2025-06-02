@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/GLU/GLU.iml" filepath="$PROJECT_DIR$/GLU/GLU.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_thirdSEm.iml" filepath="$PROJECT_DIR$/Java_thirdSEm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
     </modules>
   </component>
